@@ -25,12 +25,12 @@ Create a file named `appsettings.json` in your project root (set to **Copy to Ou
 	"Accounts": [
 		{
 			"Email": "email1@example.com",
-			"AccessToken": "999f13b7233428e7",
+			"AccessToken": "999f13....",
 			"ContextToken": "NTHf-FEd9oDTfp....",
 			"Cookies": "guest_idv1%3A...your-full-cookie-string-here..."
 		},
 		{
 			"Email": "email2@example.com",
-			"AccessToken": "c1aeaa4d553e9127",
+			"AccessToken": "c1aeaa......",
 			"ContextToken": "NTHf-FEd9oDTfp....",
 ```
